@@ -6,8 +6,6 @@ This project integrates MapLibre GL with ViteJS for fast, modern map-based web a
 - [Installation](#installation)
 - [Usage](#usage)
 - [Development](#development)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
